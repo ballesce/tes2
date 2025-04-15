@@ -12,7 +12,7 @@ const services = {
     title: "Desain UI/UX",
     description: "Layanan ini mencakup proses desain antarmuka pengguna (UI) dan pengalaman pengguna (UX) yang bertujuan untuk menciptakan produk digital yang intuitif, estetis, dan mudah digunakan. Pendekatan yang digunakan melibatkan tahapan riset pengguna, penyusunan wireframe, pembuatan prototipe interaktif, serta evaluasi usability. Desain dibuat menggunakan tools profesional seperti Figma dan Adobe XD, dengan mempertimbangkan prinsip-prinsip desain seperti konsistensi visual, hierarki informasi, dan aksesibilitas.",
   },
-  homeschooling: {
+  cv: {
     image: "/images/Cv.jpg",
     title: "CV Project",
     description: "CV Project merupakan pengembangan portofolio digital interaktif dalam bentuk situs web pribadi yang menampilkan profil profesional secara menyeluruh. Proyek ini mencakup penyusunan informasi personal, riwayat pendidikan, pengalaman kerja, keterampilan teknis, serta dokumentasi proyek-proyek yang pernah dikerjakan. Situs dirancang responsif dan user-friendly, memungkinkan pengunjung untuk mengakses informasi secara mudah dan cepat, baik melalui desktop maupun perangkat mobile. Tujuan dari proyek ini adalah memberikan representasi digital yang kuat dan profesional sebagai identitas diri di dunia kerja maupun akademik.",
